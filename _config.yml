@@ -19,7 +19,7 @@ google_scholar_stats_use_cdn : true
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   name             : "<center>Kun-Yang Yu</center>\n<center>于坤杨</center>"
   pronouns         : # example: "she/her"  
   bio              : "<center>Nanjing University</center>"
