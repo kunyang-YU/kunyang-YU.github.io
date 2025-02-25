@@ -21,8 +21,7 @@ I am a first-year M.Sc student at [School of Artificial Intelligence](https://ai
 
 I got my B.Sc. degree in School of Artificial Intelligence in June 2024 from Southeast University. In the same year, I was admitted to pursue for a M.Sc degree in Nanjing University without entrance examination.
 
-# Publication 
-<!-- <a href='https://scholar.google.com/citations?user=mkP1EtkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+# Publication <a href='https://scholar.google.com/citations?user=mkP1EtkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 ## Conference Papers
 
