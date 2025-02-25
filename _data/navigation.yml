@@ -12,7 +12,7 @@ main:
   #   url: "/#-news"
 
   - title: "Publication"
-    url: "/#-publication-"
+    url: "/#-Publication-"
 
   # - title: "Software"
   #   url: "/#-software"
