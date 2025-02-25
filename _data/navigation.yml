@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Introduction"
-    url: "/#-introduction"
+    url: ""
 
   # - title: "News"
   #   url: "/#-news"
 
   - title: "Publication"
-    url: "/#-publication-"
+    url: ""
 
   # - title: "Software"
   #   url: "/#-software"
