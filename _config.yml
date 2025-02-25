@@ -20,9 +20,9 @@ google_scholar_stats_use_cdn : true
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "<center>Kun-Yang Yu</center>\n<center>于坤杨</center>"
+  name             : "Kun-Yang Yu\n于坤杨"
   pronouns         : # example: "she/her"  
-  bio              : "<center>Nanjing University</center>"
+  bio              : "Nanjing University"
   location         : "Nanjing China"
   employer         : 
   uri              : # URL
