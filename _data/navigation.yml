@@ -1,18 +1,13 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-
+# main links links
 main:
   - title: "Introduction"
-    url: "/#-Introduction"
+    url: "/#-introduction"
 
   # - title: "News"
   #   url: "/#-news"
 
   - title: "Publication"
-    url: "/#-Publication-"
+    url: "/#-publication-"
 
   # - title: "Software"
   #   url: "/#-software"
@@ -28,3 +23,8 @@ main:
 
   # - title: "Education"
   #   url: "/#-education"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+
+
