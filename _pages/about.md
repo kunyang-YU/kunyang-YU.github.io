@@ -41,3 +41,11 @@ In: Proceedings of the 39th AAAI conference on Artificial Intelligence, Philadel
 Zhi Zhou, **Kun-Yang Yu**, Shi-Yu Tian, Xiao-Wen Yang, Jiang-Xin Shi, Peng-Xiao Song, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li. <br>
 Under Review. <br>
 [[Paper]](./resources/preprint/LawGPT.pdf)
+
+## Activity
+
+### Conference Committee
+
+- Program Committee Member, ICLR 2025
+- Program Committee Member, IJCAI 2025
+- Program Committee Member, ECAI 2025
