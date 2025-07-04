@@ -43,7 +43,7 @@ SCI-FM Workshop @ ICLR 2025 <br>
 - **Fully Test-Time Adaptation for Feature Decrement in Tabular Data.**<br>
 Zi-Jian Cheng, Zi-Yi Jia, **Kun-Yang Yu**, Zhi Zhou, Lan-Zhe Guo. <br>
 In: Proceedings of the 34th International Joint Conference on Artificial Intelligence, Montreal, 2025. <br>
-<span style="color:blue">AAAI 2025.</span>
+<span style="color:blue">IJCAI 2025.</span>
 <span style="color:grey">CCF-A.</span>
 
 ## Preprints
