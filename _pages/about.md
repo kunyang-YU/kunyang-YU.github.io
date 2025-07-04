@@ -35,12 +35,26 @@ In: Proceedings of the 39th AAAI conference on Artificial Intelligence, Philadel
 <!-- [[Paper]](../resources/FTTA.pdf) -->
 [[Paper]](https://arxiv.org/abs/2412.10871) 
 
-## Preprints
-
 - **LawGPT: Knowledge-Guided Data Generation and Its Application to Legal LLM** <br>
 Zhi Zhou, **Kun-Yang Yu**, Shi-Yu Tian, Xiao-Wen Yang, Jiang-Xin Shi, Peng-Xiao Song, Yi-Xuan Jin, Lan-Zhe Guo, Yu-Feng Li. <br>
-Under Review. <br>
+SCI-FM Workshop @ ICLR 2025 <br>
 [[Paper]](./resources/preprint/LawGPT.pdf)
+
+- **Fully Test-Time Adaptation for Feature Decrement in Tabular Data.**<br>
+Zi-Jian Cheng, Zi-Yi Jia, **Kun-Yang Yu**, Zhi Zhou, Lan-Zhe Guo. <br>
+In: Proceedings of the 34th International Joint Conference on Artificial Intelligence, Montreal, 2025. <br>
+<span style="color:blue">AAAI 2025.</span>
+<span style="color:grey">CCF-A.</span>
+
+## Preprints
+
+- **Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline Design and Benchmarking Insights** <br>
+Shi-Yu Tian, Zhi Zhou, Wei Dong, Ming Yang, **Kun-Yang Yu**, Zi-Jian Cheng, Lan-Zhe Guo, Yu-Feng Li. <br>
+Preprint. Under review.
+
+- **VC Search: Bridging the Gap Between Well-Defined and Ill-Defined Problems in Mathematical Reasoning** <br>
+Shi-Yu Tian, Zhi Zhou, **Kun-Yang Yu**, Ming Yang, Lin-Han Jia, Lan-Zhe Guo, Yu-Feng Li.<br>
+Preprint. Under review.
 
 ## Activity
 
