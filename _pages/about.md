@@ -46,15 +46,18 @@ In: Proceedings of the 34th International Joint Conference on Artificial Intelli
 <span style="color:blue">IJCAI 2025.</span>
 <span style="color:grey">CCF-A.</span>
 
+- **VC Search: Bridging the Gap Between Well-Defined and Ill-Defined Problems in Mathematical Reasoning** <br>
+Shi-Yu Tian, Zhi Zhou, **Kun-Yang Yu**, Ming Yang, Lin-Han Jia, Lan-Zhe Guo, Yu-Feng Li.<br>
+In: Proceedings of the Conference on Empirical Methods in Natural Language, 2025. <br>
+<span style="color:blue">EMNLP 2025.</span>
+<span style="color:grey">CAAI-A.</span>
+
 ## Preprints
 
 - **Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline Design and Benchmarking Insights** <br>
 Shi-Yu Tian, Zhi Zhou, Wei Dong, Ming Yang, **Kun-Yang Yu**, Zi-Jian Cheng, Lan-Zhe Guo, Yu-Feng Li. <br>
 Preprint. Under review.
 
-- **VC Search: Bridging the Gap Between Well-Defined and Ill-Defined Problems in Mathematical Reasoning** <br>
-Shi-Yu Tian, Zhi Zhou, **Kun-Yang Yu**, Ming Yang, Lin-Han Jia, Lan-Zhe Guo, Yu-Feng Li.<br>
-Preprint. Under review.
 
 ## Activity
 
