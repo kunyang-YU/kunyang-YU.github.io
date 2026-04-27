@@ -40,11 +40,17 @@ Zhi Zhou, **Kun-Yang Yu**, Shi-Yu Tian, Xiao-Wen Yang, Jiang-Xin Shi, Peng-Xiao 
 SCI-FM Workshop @ ICLR 2025 <br>
 [[Paper]](./resources/preprint/LawGPT.pdf)
 
+- **TabularMath: Understanding Math Reasoning over Tables with Large Language Models.**<br>
+Shi-Yu Tian, Zhi Zhou, Wei Dong, **Kun-Yang Yu**, Ming Yang, Zi-Jian Cheng, Lan-Zhe Guo, Yu-Feng Li <br>
+In: Proceedings of the 34th International Joint Conference on Artificial Intelligence, Montreal, 2025. <br>
+<span style="color:blue"> ACL 2026 Findings.</span>
+<span style="color:grey">CCF-A.</span>
+
 - **Fully Test-Time Adaptation for Feature Decrement in Tabular Data.**<br>
 Zi-Jian Cheng, Zi-Yi Jia, **Kun-Yang Yu**, Zhi Zhou, Lan-Zhe Guo. <br>
 In: Proceedings of the 34th International Joint Conference on Artificial Intelligence, Montreal, 2025. <br>
 <span style="color:blue">IJCAI 2025.</span>
-<span style="color:grey">CCF-A.</span>
+<span style="color:grey">CCF-B.</span>
 
 - **VC Search: Bridging the Gap Between Well-Defined and Ill-Defined Problems in Mathematical Reasoning** <br>
 Shi-Yu Tian, Zhi Zhou, **Kun-Yang Yu**, Ming Yang, Lin-Han Jia, Lan-Zhe Guo, Yu-Feng Li.<br>
@@ -54,9 +60,11 @@ In: Proceedings of the Conference on Empirical Methods in Natural Language, 2025
 
 ## Preprints
 
-- **Automated Text-to-Table for Reasoning-Intensive Table QA: Pipeline Design and Benchmarking Insights** <br>
-Shi-Yu Tian, Zhi Zhou, Wei Dong, Ming Yang, **Kun-Yang Yu**, Zi-Jian Cheng, Lan-Zhe Guo, Yu-Feng Li. <br>
-Preprint. Under review.
+- **Thinking with Tables: Enhancing Multi-Modal Tabular Understanding via Neuro-Symbolic Reasoning** <br>
+**Kun-Yang Yu**, Zhi Zhou, Shi-Yu Tian, Xiao-Wen Yang, Ziyi Jia, Ming Yang, Zi-Jian Cheng, Lan-Zhe Guo, Yu-Feng Li <br>
+Preprint. arXiv:2603.24004. Under review.
+[[Paper]](https://arxiv.org/abs/2603.24004) [[code]](https://github.com/kunyang-YU/Thinking-with-Tables/tree/main) [[page]](https://kunyang-yu.github.io/Thinking-with-Tables/) 
+
 
 
 ## Activity
